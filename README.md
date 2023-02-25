@@ -2,10 +2,6 @@
 Rode0day future solutions for fuzzing competition
 
 Future first goals:
-        
-       solve:
-    
-
       [*]Rode0day-18.07: 0%
       [*]Rode0day-18.09: 0%
       [*]Rode0day-18.10: 0%
