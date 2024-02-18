@@ -18,6 +18,7 @@ Future goals:
       [*]Rode0day-19.11: 0%
 
 | Bugs Found in Rode0day-18.07  | 
+
 | ------------- | ------------- |
 | Type          | Description   |
 | Content Cell  | Content Cell  |
