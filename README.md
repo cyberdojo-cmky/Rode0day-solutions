@@ -3,7 +3,7 @@ Rode0day future solutions for fuzzing competition
 
 Future goals:
 
-      [*]Rode0day-18.07: 0%
+      [*]Rode0day-18.07: 0.001%
       [*]Rode0day-18.09: 0%
       [*]Rode0day-18.10: 0%
       [*]Rode0day-18.11: 0%
