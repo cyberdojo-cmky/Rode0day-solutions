@@ -19,7 +19,7 @@ Future goals:
 
 | Bugs found in Rode0day-18.07  |               |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Type          | Description   |
 | Content Cell  | Content Cell  |
 
   Once we solve this we can cry for an sponsorship to learn how to fuzz binaries, basically everythingn up there is fuzzable with source code only
