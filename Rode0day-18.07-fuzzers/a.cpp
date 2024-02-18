@@ -10,6 +10,15 @@
 
 using namespace std;
 
+static const char *types[] = {
+            "IATx", "sTER", "hIST", "sPLT", "mkBF", "mkBS", "mkTS", "prVW",
+            "oFFs", "iDOT", "zTXt", "mkBT", "acTL", "iTXt", "sBIT", "tIME",
+            "iCCP", "vpAg", "tRNS", "cHRM", "PLTE", "bKGD", "gAMA", "sRGB",
+            "pHYs", "fdAT", "fcTL", "tEXt", "IDAT",
+            "pCAL", "sCAL", "eXIf",
+            "fUZz", // special chunk for extra fuzzing hints.
+};
+
 class FileMutator {
   using V = std::vector<uint8_t>;
 
