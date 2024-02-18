@@ -10,6 +10,8 @@
 
 using namespace std;
 
+//as a goal first things first we need to be able to fuzz apprentice :) for starters. And get covared up and running, and do assited fuzzing 
+
 void parse_magic(){
             //this is to be implemented , so basically
             /*Me and danny have to figure out how to use /etc/magic in order to have our sanity
