@@ -20,7 +20,7 @@ void parse_magic(){
             */
 }
 
-
+//this will be used later 
 static const char *types[] = {
             0xc3cbc6c5, 0x521c, "Glul", 0x736C6821, 0x736C682E, 0x736C682B, 0420, "AMANDA",
             0x000003fa, 0x000003f3, 0x000003e7, "mkBT", "acTL", "iTXt", "sBIT", "tIME",
