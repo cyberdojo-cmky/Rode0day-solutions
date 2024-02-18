@@ -10,9 +10,18 @@
 
 using namespace std;
 
+void parse_magic(){
+            //this is to be implemented , so basically
+            /*Me and danny have to figure out how to use /etc/magic in order to have our sanity
+            still table and have a function which read /etc/magic and generates a static const char *types[]
+            at runtime.
+            */
+}
+
+
 static const char *types[] = {
-            "IATx", "sTER", "hIST", "sPLT", "mkBF", "mkBS", "mkTS", "prVW",
-            "oFFs", "iDOT", "zTXt", "mkBT", "acTL", "iTXt", "sBIT", "tIME",
+            0xc3cbc6c5, 0x521c, "Glul", 0x736C6821, 0x736C682E, 0x736C682B, 0420, "AMANDA",
+            0x000003fa, 0x000003f3, 0x000003e7, "mkBT", "acTL", "iTXt", "sBIT", "tIME",
             "iCCP", "vpAg", "tRNS", "cHRM", "PLTE", "bKGD", "gAMA", "sRGB",
             "pHYs", "fdAT", "fcTL", "tEXt", "IDAT",
             "pCAL", "sCAL", "eXIf",
