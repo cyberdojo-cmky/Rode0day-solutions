@@ -17,7 +17,7 @@ Future goals:
       [*]Rode0day-19.10: 0%
       [*]Rode0day-19.11: 0%
 
-| First Header  | Second Header |
+| Bugs found in Rode0day-18.07  |               |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
